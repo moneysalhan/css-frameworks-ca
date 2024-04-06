@@ -1,12 +1,10 @@
-.col{
-    color:red;
-}
-
-
 //Font name
-.montserrat {
+body {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
   }
+
+  //colors
+  $light-blue: #668fcd;

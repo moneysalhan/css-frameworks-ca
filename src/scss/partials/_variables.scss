@@ -1,10 +1,14 @@
-//Font name
-body {
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: normal;
-    font-style: normal;
-  }
+//colors
+$light-blue: #668fcd;
 
-  //colors
-  $light-blue: #668fcd;
+  //Font name
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.profile-title{
+  color: red;
+}
